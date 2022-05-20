@@ -7,10 +7,9 @@ In this web application you will find many informative movie reviews, you can co
 ```
  This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.
  
- 
-Check out [API_LIVE_DEMO](https://backend-synamatic1.herokuapp.com/) here!!
+API_LIVE_DEMO](https://backend-synamatic1.herokuapp.com/) Checkout here!!
 
-Check out [FRONTEND_LIVE_DEMO](https://frontend-synamatic1.herokuapp.com/) here!!
+[FRONTEND_LIVE_DEMO](https://frontend-synamatic1.herokuapp.com/) Checkout here!!
 
 ```
 
