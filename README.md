@@ -4,14 +4,14 @@ In this web application you will find many informative movie reviews, you can co
 ```
 
 # Live Demo
-```
+
  This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.
  
-[API_LIVE_DEMO](https://backend-synamatic1.herokuapp.com/) Checkout here!!
+Check Out [API_LIVE_DEMO](https://backend-synamatic1.herokuapp.com/)  here!!
 
-[FRONTEND_LIVE_DEMO](https://frontend-synamatic1.herokuapp.com/) Checkout here!!
+Check Out [FRONTEND_LIVE_DEMO](https://frontend-synamatic1.herokuapp.com/)  here!!
 
-```
+
 
 # Tech used
 ```
